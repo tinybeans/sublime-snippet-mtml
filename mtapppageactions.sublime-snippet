@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mtapp:PageActions${1} />
+]]></content>
+	<tabTrigger>mtapppageactions</tabTrigger>
+
+	<description>mtapp:PageActions</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryTrackbackLink${1} />
+]]></content>
+	<tabTrigger>mtentrytrackbacklink</tabTrigger>
+
+	<description>mt:EntryTrackbackLink</description>
+</snippet>

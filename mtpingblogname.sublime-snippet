@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PingBlogName${1} />
+]]></content>
+	<tabTrigger>mtpingblogname</tabTrigger>
+
+	<description>mt:PingBlogName</description>
+</snippet>

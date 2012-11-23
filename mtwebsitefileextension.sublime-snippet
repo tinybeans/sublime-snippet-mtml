@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsiteFileExtension${1} />
+]]></content>
+	<tabTrigger>mtwebsitefileextension</tabTrigger>
+
+	<description>mt:WebsiteFileExtension</description>
+</snippet>

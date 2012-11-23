@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AtomScript${1} />
+]]></content>
+	<tabTrigger>mtatomscript</tabTrigger>
+
+	<description>mt:AtomScript</description>
+</snippet>

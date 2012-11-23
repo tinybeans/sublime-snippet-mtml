@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogIfCCLicense${1}>${2:Contents}</mt:BlogIfCCLicense>
+]]></content>
+	<tabTrigger>mtblogifcclicense</tabTrigger>
+
+	<description>mt:BlogIfCCLicense</description>
+</snippet>

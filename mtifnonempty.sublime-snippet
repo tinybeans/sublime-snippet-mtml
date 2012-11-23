@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfNonEmpty${1}>${2:Contents}</mt:IfNonEmpty>
+]]></content>
+	<tabTrigger>mtifnonempty</tabTrigger>
+
+	<description>mt:IfNonEmpty</description>
+</snippet>

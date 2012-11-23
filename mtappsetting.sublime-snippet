@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mtapp:Setting${1}>${2:Contents}</mtapp:Setting>
+]]></content>
+	<tabTrigger>mtappsetting</tabTrigger>
+
+	<description>mtapp:Setting</description>
+</snippet>

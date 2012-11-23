@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfFolder${1}>${2:Contents}</mt:IfFolder>
+]]></content>
+	<tabTrigger>mtiffolder</tabTrigger>
+
+	<description>mt:IfFolder</description>
+</snippet>

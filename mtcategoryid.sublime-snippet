@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CategoryID${1} />
+]]></content>
+	<tabTrigger>mtcategoryid</tabTrigger>
+
+	<description>mt:CategoryID</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Loop${1}>${2:Contents}</mt:Loop>
+]]></content>
+	<tabTrigger>mtloop</tabTrigger>
+
+	<description>mt:Loop</description>
+</snippet>

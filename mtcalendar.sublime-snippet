@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Calendar${1}>${2:Contents}</mt:Calendar>
+]]></content>
+	<tabTrigger>mtcalendar</tabTrigger>
+
+	<description>mt:Calendar</description>
+</snippet>

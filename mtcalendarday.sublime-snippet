@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CalendarDay${1} />
+]]></content>
+	<tabTrigger>mtcalendarday</tabTrigger>
+
+	<description>mt:CalendarDay</description>
+</snippet>

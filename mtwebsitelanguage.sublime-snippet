@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsiteLanguage${1} />
+]]></content>
+	<tabTrigger>mtwebsitelanguage</tabTrigger>
+
+	<description>mt:WebsiteLanguage</description>
+</snippet>

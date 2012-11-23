@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PingsFooter${1}>${2:Contents}</mt:PingsFooter>
+]]></content>
+	<tabTrigger>mtpingsfooter</tabTrigger>
+
+	<description>mt:PingsFooter</description>
+</snippet>

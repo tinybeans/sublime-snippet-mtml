@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:If tag="${1:TagName}">${2:Contents}</mt:If>
+]]></content>
+	<tabTrigger>mtiftag</tabTrigger>
+
+	<description>mt:If tag</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogResultFooter${1}>${2:Contents}</mt:BlogResultFooter>
+]]></content>
+	<tabTrigger>mtblogresultfooter</tabTrigger>
+
+	<description>mt:BlogResultFooter</description>
+</snippet>

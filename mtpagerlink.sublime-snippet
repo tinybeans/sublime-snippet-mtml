@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PagerLink${1} />
+]]></content>
+	<tabTrigger>mtpagerlink</tabTrigger>
+
+	<description>mt:PagerLink</description>
+</snippet>

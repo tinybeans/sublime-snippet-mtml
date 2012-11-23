@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderNext${1}>${2:Contents}</mt:FolderNext>
+]]></content>
+	<tabTrigger>mtfoldernext</tabTrigger>
+
+	<description>mt:FolderNext</description>
+</snippet>

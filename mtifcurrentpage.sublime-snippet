@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfCurrentPage${1}>${2:Contents}</mt:IfCurrentPage>
+]]></content>
+	<tabTrigger>mtifcurrentpage</tabTrigger>
+
+	<description>mt:IfCurrentPage</description>
+</snippet>

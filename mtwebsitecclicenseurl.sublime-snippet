@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsiteCCLicenseURL${1} />
+]]></content>
+	<tabTrigger>mtwebsitecclicenseurl</tabTrigger>
+
+	<description>mt:WebsiteCCLicenseURL</description>
+</snippet>

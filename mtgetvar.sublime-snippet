@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:GetVar${1} />
+]]></content>
+	<tabTrigger>mtgetvar</tabTrigger>
+
+	<description>mt:GetVar</description>
+</snippet>

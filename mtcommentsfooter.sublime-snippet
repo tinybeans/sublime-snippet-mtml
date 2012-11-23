@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentsFooter${1}>${2:Contents}</mt:CommentsFooter>
+]]></content>
+	<tabTrigger>mtcommentsfooter</tabTrigger>
+
+	<description>mt:CommentsFooter</description>
+</snippet>

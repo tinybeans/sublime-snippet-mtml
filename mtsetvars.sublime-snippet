@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<mt:SetVars>
+${1:Variable Name}=${2:Value}
+</mt:SetVars>
+]]></content>
+	<tabTrigger>mtsetvars</tabTrigger>
+
+	<description>mt:SetVars</description>
+</snippet>

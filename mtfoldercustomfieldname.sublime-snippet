@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderCustomFieldName${1} />
+]]></content>
+	<tabTrigger>mtfoldercustomfieldname</tabTrigger>
+
+	<description>mt:FolderCustomFieldName</description>
+</snippet>

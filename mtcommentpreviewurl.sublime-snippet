@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentPreviewURL${1} />
+]]></content>
+	<tabTrigger>mtcommentpreviewurl</tabTrigger>
+
+	<description>mt:CommentPreviewURL</description>
+</snippet>

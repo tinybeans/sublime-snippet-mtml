@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ImageHeight${1} />
+]]></content>
+	<tabTrigger>mtimageheight</tabTrigger>
+
+	<description>mt:ImageHeight</description>
+</snippet>

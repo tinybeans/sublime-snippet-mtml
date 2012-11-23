@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderID${1} />
+]]></content>
+	<tabTrigger>mtfolderid</tabTrigger>
+
+	<description>mt:FolderID</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsiteThemeID${1} />
+]]></content>
+	<tabTrigger>mtwebsitethemeid</tabTrigger>
+
+	<description>mt:WebsiteThemeID</description>
+</snippet>

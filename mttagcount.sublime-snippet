@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TagCount${1} />
+]]></content>
+	<tabTrigger>mttagcount</tabTrigger>
+
+	<description>mt:TagCount</description>
+</snippet>

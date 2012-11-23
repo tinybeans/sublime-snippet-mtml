@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfStatic${1}>${2:Contents}</mt:IfStatic>
+]]></content>
+	<tabTrigger>mtifstatic</tabTrigger>
+
+	<description>mt:IfStatic</description>
+</snippet>

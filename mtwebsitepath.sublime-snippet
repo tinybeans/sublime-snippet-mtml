@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsitePath${1} />
+]]></content>
+	<tabTrigger>mtwebsitepath</tabTrigger>
+
+	<description>mt:WebsitePath</description>
+</snippet>

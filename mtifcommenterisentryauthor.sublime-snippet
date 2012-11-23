@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfCommenterIsEntryAuthor${1}>${2:Contents}</mt:IfCommenterIsEntryAuthor>
+]]></content>
+	<tabTrigger>mtifcommenterisentryauthor</tabTrigger>
+
+	<description>mt:IfCommenterIsEntryAuthor</description>
+</snippet>

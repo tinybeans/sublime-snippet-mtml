@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CGIServerPath${1} />
+]]></content>
+	<tabTrigger>mtcgiserverpath</tabTrigger>
+
+	<description>mt:CGIServerPath</description>
+</snippet>

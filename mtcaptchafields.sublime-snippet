@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CaptchaFields${1} />
+]]></content>
+	<tabTrigger>mtcaptchafields</tabTrigger>
+
+	<description>mt:CaptchaFields</description>
+</snippet>

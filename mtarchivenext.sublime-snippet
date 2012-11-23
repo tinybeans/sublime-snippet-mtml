@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ArchiveNext${1}>${2:Contents}</mt:ArchiveNext>
+]]></content>
+	<tabTrigger>mtarchivenext</tabTrigger>
+
+	<description>mt:ArchiveNext</description>
+</snippet>

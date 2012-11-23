@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TopLevelFolder${1}>${2:Contents}</mt:TopLevelFolder>
+]]></content>
+	<tabTrigger>mttoplevelfolder</tabTrigger>
+
+	<description>mt:TopLevelFolder</description>
+</snippet>

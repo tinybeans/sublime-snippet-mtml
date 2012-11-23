@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:StreamActionDate${1} />
+]]></content>
+	<tabTrigger>mtstreamactiondate</tabTrigger>
+
+	<description>mt:StreamActionDate</description>
+</snippet>

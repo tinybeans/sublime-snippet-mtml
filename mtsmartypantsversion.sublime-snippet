@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SmartyPantsVersion${1} />
+]]></content>
+	<tabTrigger>mtsmartypantsversion</tabTrigger>
+
+	<description>mt:SmartyPantsVersion</description>
+</snippet>

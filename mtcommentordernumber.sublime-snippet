@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentOrderNumber${1} />
+]]></content>
+	<tabTrigger>mtcommentordernumber</tabTrigger>
+
+	<description>mt:CommentOrderNumber</description>
+</snippet>

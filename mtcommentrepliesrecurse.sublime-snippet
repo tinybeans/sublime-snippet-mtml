@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentRepliesRecurse${1} />
+]]></content>
+	<tabTrigger>mtcommentrepliesrecurse</tabTrigger>
+
+	<description>mt:CommentRepliesRecurse</description>
+</snippet>

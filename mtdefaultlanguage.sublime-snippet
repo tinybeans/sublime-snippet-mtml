@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:DefaultLanguage${1} />
+]]></content>
+	<tabTrigger>mtdefaultlanguage</tabTrigger>
+
+	<description>mt:DefaultLanguage</description>
+</snippet>

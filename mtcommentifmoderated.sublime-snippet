@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentIfModerated${1}>${2:Contents}</mt:CommentIfModerated>
+]]></content>
+	<tabTrigger>mtcommentifmoderated</tabTrigger>
+
+	<description>mt:CommentIfModerated</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfCommentReplies${1}>${2:Contents}</mt:IfCommentReplies>
+]]></content>
+	<tabTrigger>mtifcommentreplies</tabTrigger>
+
+	<description>mt:IfCommentReplies</description>
+</snippet>

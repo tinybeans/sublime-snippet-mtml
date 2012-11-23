@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PingDate${1} />
+]]></content>
+	<tabTrigger>mtpingdate</tabTrigger>
+
+	<description>mt:PingDate</description>
+</snippet>

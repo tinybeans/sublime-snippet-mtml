@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryClassLabel${1} />
+]]></content>
+	<tabTrigger>mtentryclasslabel</tabTrigger>
+
+	<description>mt:EntryClassLabel</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryCustomFields${1}>${2:Contents}</mt:EntryCustomFields>
+]]></content>
+	<tabTrigger>mtentrycustomfields</tabTrigger>
+
+	<description>mt:EntryCustomFields</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ArchivePrevious${1}>${2:Contents}</mt:ArchivePrevious>
+]]></content>
+	<tabTrigger>mtarchiveprevious</tabTrigger>
+
+	<description>mt:ArchivePrevious</description>
+</snippet>

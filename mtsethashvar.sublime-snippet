@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SetHashVar${1}>${2:Contents}</mt:SetHashVar>
+]]></content>
+	<tabTrigger>mtsethashvar</tabTrigger>
+
+	<description>mt:SetHashVar</description>
+</snippet>

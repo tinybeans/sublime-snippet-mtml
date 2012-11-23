@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Link${1} />
+]]></content>
+	<tabTrigger>mtlink</tabTrigger>
+
+	<description>mt:Link</description>
+</snippet>

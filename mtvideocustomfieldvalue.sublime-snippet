@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:VideoCustomFieldValue${1} />
+]]></content>
+	<tabTrigger>mtvideocustomfieldvalue</tabTrigger>
+
+	<description>mt:VideoCustomFieldValue</description>
+</snippet>

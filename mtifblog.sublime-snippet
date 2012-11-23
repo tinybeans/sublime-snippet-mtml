@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfBlog${1}>${2:Contents}</mt:IfBlog>
+]]></content>
+	<tabTrigger>mtifblog</tabTrigger>
+
+	<description>mt:IfBlog</description>
+</snippet>

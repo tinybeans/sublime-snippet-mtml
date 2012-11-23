@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderPath${1} />
+]]></content>
+	<tabTrigger>mtfolderpath</tabTrigger>
+
+	<description>mt:FolderPath</description>
+</snippet>

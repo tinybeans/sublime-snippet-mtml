@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Var name="${1:name}" />
+]]></content>
+	<tabTrigger>mtvar</tabTrigger>
+
+	<description>mt:Var</description>
+</snippet>

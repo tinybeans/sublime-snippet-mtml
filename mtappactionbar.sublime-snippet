@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mtapp:ActionBar${1} />
+]]></content>
+	<tabTrigger>mtappactionbar</tabTrigger>
+
+	<description>mtapp:ActionBar</description>
+</snippet>

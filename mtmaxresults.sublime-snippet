@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:MaxResults${1} />
+]]></content>
+	<tabTrigger>mtmaxresults</tabTrigger>
+
+	<description>mt:MaxResults</description>
+</snippet>

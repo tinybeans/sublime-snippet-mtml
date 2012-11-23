@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsiteIfCommentsOpen${1}>${2:Contents}</mt:WebsiteIfCommentsOpen>
+]]></content>
+	<tabTrigger>mtwebsiteifcommentsopen</tabTrigger>
+
+	<description>mt:WebsiteIfCommentsOpen</description>
+</snippet>

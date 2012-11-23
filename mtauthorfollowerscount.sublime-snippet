@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AuthorFollowersCount${1} />
+]]></content>
+	<tabTrigger>mtauthorfollowerscount</tabTrigger>
+
+	<description>mt:AuthorFollowersCount</description>
+</snippet>

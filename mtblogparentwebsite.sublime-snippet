@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogParentWebsite${1}>${2:Contents}</mt:BlogParentWebsite>
+]]></content>
+	<tabTrigger>mtblogparentwebsite</tabTrigger>
+
+	<description>mt:BlogParentWebsite</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SearchScript${1} />
+]]></content>
+	<tabTrigger>mtsearchscript</tabTrigger>
+
+	<description>mt:SearchScript</description>
+</snippet>

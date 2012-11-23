@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PageFolder${1}>${2:Contents}</mt:PageFolder>
+]]></content>
+	<tabTrigger>mtpagefolder</tabTrigger>
+
+	<description>mt:PageFolder</description>
+</snippet>

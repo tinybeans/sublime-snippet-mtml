@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryIfTagged${1}>${2:Contents}</mt:EntryIfTagged>
+]]></content>
+	<tabTrigger>mtentryiftagged</tabTrigger>
+
+	<description>mt:EntryIfTagged</description>
+</snippet>

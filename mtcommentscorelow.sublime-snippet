@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentScoreLow${1} />
+]]></content>
+	<tabTrigger>mtcommentscorelow</tabTrigger>
+
+	<description>mt:CommentScoreLow</description>
+</snippet>

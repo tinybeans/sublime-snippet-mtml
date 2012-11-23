@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PagePrevious${1}>${2:Contents}</mt:PagePrevious>
+]]></content>
+	<tabTrigger>mtpageprevious</tabTrigger>
+
+	<description>mt:PagePrevious</description>
+</snippet>

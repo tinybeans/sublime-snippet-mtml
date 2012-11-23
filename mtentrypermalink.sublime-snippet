@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryPermalink${1} />
+]]></content>
+	<tabTrigger>mtentrypermalink</tabTrigger>
+
+	<description>mt:EntryPermalink</description>
+</snippet>

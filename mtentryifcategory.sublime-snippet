@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryIfCategory${1}>${2:Contents}</mt:EntryIfCategory>
+]]></content>
+	<tabTrigger>mtentryifcategory</tabTrigger>
+
+	<description>mt:EntryIfCategory</description>
+</snippet>

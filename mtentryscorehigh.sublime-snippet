@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryScoreHigh${1} />
+]]></content>
+	<tabTrigger>mtentryscorehigh</tabTrigger>
+
+	<description>mt:EntryScoreHigh</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfTypeKeyToken${1}>${2:Contents}</mt:IfTypeKeyToken>
+]]></content>
+	<tabTrigger>mtiftypekeytoken</tabTrigger>
+
+	<description>mt:IfTypeKeyToken</description>
+</snippet>

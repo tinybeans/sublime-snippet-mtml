@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:For${1}>${2:Contents}</mt:For>
+]]></content>
+	<tabTrigger>mtfor</tabTrigger>
+
+	<description>mt:For</description>
+</snippet>

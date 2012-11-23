@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:StreamActionVar${1} />
+]]></content>
+	<tabTrigger>mtstreamactionvar</tabTrigger>
+
+	<description>mt:StreamActionVar</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:HTTPContentType${1} />
+]]></content>
+	<tabTrigger>mthttpcontenttype</tabTrigger>
+
+	<description>mt:HTTPContentType</description>
+</snippet>

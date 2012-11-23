@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CalendarIfBlank${1}>${2:Contents}</mt:CalendarIfBlank>
+]]></content>
+	<tabTrigger>mtcalendarifblank</tabTrigger>
+
+	<description>mt:CalendarIfBlank</description>
+</snippet>

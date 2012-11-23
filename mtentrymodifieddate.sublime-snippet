@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryModifiedDate${1} />
+]]></content>
+	<tabTrigger>mtentrymodifieddate</tabTrigger>
+
+	<description>mt:EntryModifiedDate</description>
+</snippet>

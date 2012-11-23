@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:MarkdownOptions${1}>${2:Contents}</mt:MarkdownOptions>
+]]></content>
+	<tabTrigger>mtmarkdownoptions</tabTrigger>
+
+	<description>mt:MarkdownOptions</description>
+</snippet>

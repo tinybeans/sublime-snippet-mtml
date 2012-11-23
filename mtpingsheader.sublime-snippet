@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PingsHeader${1}>${2:Contents}</mt:PingsHeader>
+]]></content>
+	<tabTrigger>mtpingsheader</tabTrigger>
+
+	<description>mt:PingsHeader</description>
+</snippet>

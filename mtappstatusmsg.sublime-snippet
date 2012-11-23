@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mtapp:StatusMsg${1}>${2:Contents}</mtapp:StatusMsg>
+]]></content>
+	<tabTrigger>mtappstatusmsg</tabTrigger>
+
+	<description>mtapp:StatusMsg</description>
+</snippet>

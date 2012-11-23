@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CategoryTrackbackLink${1} />
+]]></content>
+	<tabTrigger>mtcategorytrackbacklink</tabTrigger>
+
+	<description>mt:CategoryTrackbackLink</description>
+</snippet>

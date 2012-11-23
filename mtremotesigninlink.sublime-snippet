@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:RemoteSignInLink${1} />
+]]></content>
+	<tabTrigger>mtremotesigninlink</tabTrigger>
+
+	<description>mt:RemoteSignInLink</description>
+</snippet>

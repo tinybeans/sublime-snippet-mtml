@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PreviousLink${1} />
+]]></content>
+	<tabTrigger>mtpreviouslink</tabTrigger>
+
+	<description>mt:PreviousLink</description>
+</snippet>

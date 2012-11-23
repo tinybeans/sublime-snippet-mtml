@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentPreviewIP${1} />
+]]></content>
+	<tabTrigger>mtcommentpreviewip</tabTrigger>
+
+	<description>mt:CommentPreviewIP</description>
+</snippet>

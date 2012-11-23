@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PageAuthorEmail${1} />
+]]></content>
+	<tabTrigger>mtpageauthoremail</tabTrigger>
+
+	<description>mt:PageAuthorEmail</description>
+</snippet>

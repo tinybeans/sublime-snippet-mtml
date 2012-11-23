@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ImageCustomFields${1}>${2:Contents}</mt:ImageCustomFields>
+]]></content>
+	<tabTrigger>mtimagecustomfields</tabTrigger>
+
+	<description>mt:ImageCustomFields</description>
+</snippet>

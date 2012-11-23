@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfEntryRecommended${1} />
+]]></content>
+	<tabTrigger>mtifentryrecommended</tabTrigger>
+
+	<description>mt:IfEntryRecommended</description>
+</snippet>

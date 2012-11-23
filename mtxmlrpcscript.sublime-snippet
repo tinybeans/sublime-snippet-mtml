@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:XMLRPCScript${1} />
+]]></content>
+	<tabTrigger>mtxmlrpcscript</tabTrigger>
+
+	<description>mt:XMLRPCScript</description>
+</snippet>

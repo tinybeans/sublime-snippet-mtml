@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PingScoreCount${1} />
+]]></content>
+	<tabTrigger>mtpingscorecount</tabTrigger>
+
+	<description>mt:PingScoreCount</description>
+</snippet>

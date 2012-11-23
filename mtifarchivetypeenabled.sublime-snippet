@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfArchiveTypeEnabled${1}>${2:Contents}</mt:IfArchiveTypeEnabled>
+]]></content>
+	<tabTrigger>mtifarchivetypeenabled</tabTrigger>
+
+	<description>mt:IfArchiveTypeEnabled</description>
+</snippet>

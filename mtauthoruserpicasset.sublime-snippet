@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AuthorUserpicAsset${1}>${2:Contents}</mt:AuthorUserpicAsset>
+]]></content>
+	<tabTrigger>mtauthoruserpicasset</tabTrigger>
+
+	<description>mt:AuthorUserpicAsset</description>
+</snippet>

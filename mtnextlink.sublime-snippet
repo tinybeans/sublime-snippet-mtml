@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:NextLink${1} />
+]]></content>
+	<tabTrigger>mtnextlink</tabTrigger>
+
+	<description>mt:NextLink</description>
+</snippet>

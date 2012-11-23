@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ImageWidth${1} />
+]]></content>
+	<tabTrigger>mtimagewidth</tabTrigger>
+
+	<description>mt:ImageWidth</description>
+</snippet>

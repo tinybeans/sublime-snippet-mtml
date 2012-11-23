@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryRecommendedTotal${1} />
+]]></content>
+	<tabTrigger>mtentryrecommendedtotal</tabTrigger>
+
+	<description>mt:EntryRecommendedTotal</description>
+</snippet>

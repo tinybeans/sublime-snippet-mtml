@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Include module="${1:Module Name}" />
+]]></content>
+	<tabTrigger>mtinclude</tabTrigger>
+
+	<description>mt:Include</description>
+</snippet>

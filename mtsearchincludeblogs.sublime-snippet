@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SearchIncludeBlogs${1} />
+]]></content>
+	<tabTrigger>mtsearchincludeblogs</tabTrigger>
+
+	<description>mt:SearchIncludeBlogs</description>
+</snippet>

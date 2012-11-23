@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryAuthor${1} />
+]]></content>
+	<tabTrigger>mtentryauthor</tabTrigger>
+
+	<description>mt:EntryAuthor</description>
+</snippet>

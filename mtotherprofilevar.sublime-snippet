@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:OtherProfileVar${1} />
+]]></content>
+	<tabTrigger>mtotherprofilevar</tabTrigger>
+
+	<description>mt:OtherProfileVar</description>
+</snippet>

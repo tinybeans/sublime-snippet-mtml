@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+regex_replace="/${1:RegExp}/","${2:Replacement}"
+]]></content>
+	<tabTrigger>reg</tabTrigger>
+
+	<description>regex_replace</description>
+</snippet>

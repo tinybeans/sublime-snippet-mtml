@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ElseIf${1}>${2:Contents}</mt:ElseIf>
+]]></content>
+	<tabTrigger>mtelseif</tabTrigger>
+
+	<description>mt:ElseIf</description>
+</snippet>

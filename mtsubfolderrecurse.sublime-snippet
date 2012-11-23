@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SubFolderRecurse${1} />
+]]></content>
+	<tabTrigger>mtsubfolderrecurse</tabTrigger>
+
+	<description>mt:SubFolderRecurse</description>
+</snippet>

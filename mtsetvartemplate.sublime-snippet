@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SetVarTemplate name="${1:Variable Name}">${2:Contents}</mt:SetVarTemplate>
+]]></content>
+	<tabTrigger>mtsetvartemplate</tabTrigger>
+
+	<description>mt:SetVarTemplate</description>
+</snippet>

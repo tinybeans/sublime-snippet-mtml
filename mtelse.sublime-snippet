@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Else${1}>${2:Contents}</mt:Else>
+]]></content>
+	<tabTrigger>mtelse</tabTrigger>
+
+	<description>mt:Else</description>
+</snippet>

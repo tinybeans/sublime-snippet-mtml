@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Ignore${1}>${2:Contents}</mt:Ignore>
+]]></content>
+	<tabTrigger>mtignore</tabTrigger>
+
+	<description>mt:Ignore</description>
+</snippet>

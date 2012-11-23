@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentPreviewEmail${1} />
+]]></content>
+	<tabTrigger>mtcommentpreviewemail</tabTrigger>
+
+	<description>mt:CommentPreviewEmail</description>
+</snippet>

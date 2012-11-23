@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CGIHost${1} />
+]]></content>
+	<tabTrigger>mtcgihost</tabTrigger>
+
+	<description>mt:CGIHost</description>
+</snippet>

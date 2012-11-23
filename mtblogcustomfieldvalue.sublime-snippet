@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogCustomFieldValue${1} />
+]]></content>
+	<tabTrigger>mtblogcustomfieldvalue</tabTrigger>
+
+	<description>mt:BlogCustomFieldValue</description>
+</snippet>

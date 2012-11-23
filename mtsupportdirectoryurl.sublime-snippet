@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SupportDirectoryURL${1} />
+]]></content>
+	<tabTrigger>mtsupportdirectoryurl</tabTrigger>
+
+	<description>mt:SupportDirectoryURL</description>
+</snippet>

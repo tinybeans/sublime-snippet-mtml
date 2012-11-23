@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ActionStreams${1}>${2:Contents}</mt:ActionStreams>
+]]></content>
+	<tabTrigger>mtactionstreams</tabTrigger>
+
+	<description>mt:ActionStreams</description>
+</snippet>

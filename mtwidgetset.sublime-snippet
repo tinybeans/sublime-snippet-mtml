@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WidgetSet${1} />
+]]></content>
+	<tabTrigger>mtwidgetset</tabTrigger>
+
+	<description>mt:WidgetSet</description>
+</snippet>

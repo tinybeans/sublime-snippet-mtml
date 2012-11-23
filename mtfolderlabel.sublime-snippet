@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderLabel${1} />
+]]></content>
+	<tabTrigger>mtfolderlabel</tabTrigger>
+
+	<description>mt:FolderLabel</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryTrackbackCount${1} />
+]]></content>
+	<tabTrigger>mtentrytrackbackcount</tabTrigger>
+
+	<description>mt:EntryTrackbackCount</description>
+</snippet>

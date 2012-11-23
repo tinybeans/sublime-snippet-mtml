@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TemplateCreatedOn${1} />
+]]></content>
+	<tabTrigger>mttemplatecreatedon</tabTrigger>
+
+	<description>mt:TemplateCreatedOn</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:StaticFilePath${1} />
+]]></content>
+	<tabTrigger>mtstaticfilepath</tabTrigger>
+
+	<description>mt:StaticFilePath</description>
+</snippet>

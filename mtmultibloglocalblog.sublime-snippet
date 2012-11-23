@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:MultiBlogLocalBlog${1}>${2:Contents}</mt:MultiBlogLocalBlog>
+]]></content>
+	<tabTrigger>mtmultibloglocalblog</tabTrigger>
+
+	<description>mt:MultiBlogLocalBlog</description>
+</snippet>

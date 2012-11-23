@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryPostType${1} />
+]]></content>
+	<tabTrigger>mtentryposttype</tabTrigger>
+
+	<description>mt:EntryPostType</description>
+</snippet>

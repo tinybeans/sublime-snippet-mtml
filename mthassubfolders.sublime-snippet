@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:HasSubFolders${1}>${2:Contents}</mt:HasSubFolders>
+]]></content>
+	<tabTrigger>mthassubfolders</tabTrigger>
+
+	<description>mt:HasSubFolders</description>
+</snippet>

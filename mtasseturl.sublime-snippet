@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetURL${1} />
+]]></content>
+	<tabTrigger>mtasseturl</tabTrigger>
+
+	<description>mt:AssetURL</description>
+</snippet>

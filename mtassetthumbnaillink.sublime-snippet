@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetThumbnailLink${1} />
+]]></content>
+	<tabTrigger>mtassetthumbnaillink</tabTrigger>
+
+	<description>mt:AssetThumbnailLink</description>
+</snippet>

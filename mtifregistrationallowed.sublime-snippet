@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfRegistrationAllowed${1}>${2:Contents}</mt:IfRegistrationAllowed>
+]]></content>
+	<tabTrigger>mtifregistrationallowed</tabTrigger>
+
+	<description>mt:IfRegistrationAllowed</description>
+</snippet>

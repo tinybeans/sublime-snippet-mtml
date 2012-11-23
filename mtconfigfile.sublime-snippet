@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ConfigFile${1} />
+]]></content>
+	<tabTrigger>mtconfigfile</tabTrigger>
+
+	<description>mt:ConfigFile</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryBlogName${1} />
+]]></content>
+	<tabTrigger>mtentryblogname</tabTrigger>
+
+	<description>mt:EntryBlogName</description>
+</snippet>

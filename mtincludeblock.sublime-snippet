@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IncludeBlock${1}>${2:Contents}</mt:IncludeBlock>
+]]></content>
+	<tabTrigger>mtincludeblock</tabTrigger>
+
+	<description>mt:IncludeBlock</description>
+</snippet>

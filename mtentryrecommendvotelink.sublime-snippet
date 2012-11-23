@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryRecommendVoteLink${1} />
+]]></content>
+	<tabTrigger>mtentryrecommendvotelink</tabTrigger>
+
+	<description>mt:EntryRecommendVoteLink</description>
+</snippet>

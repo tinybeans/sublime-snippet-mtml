@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetsFooter${1}>${2:Contents}</mt:AssetsFooter>
+]]></content>
+	<tabTrigger>mtassetsfooter</tabTrigger>
+
+	<description>mt:AssetsFooter</description>
+</snippet>

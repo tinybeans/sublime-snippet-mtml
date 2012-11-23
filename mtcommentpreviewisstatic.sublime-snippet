@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentPreviewIsStatic${1} />
+]]></content>
+	<tabTrigger>mtcommentpreviewisstatic</tabTrigger>
+
+	<description>mt:CommentPreviewIsStatic</description>
+</snippet>

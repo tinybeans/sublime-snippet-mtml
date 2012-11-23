@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentParent${1}>${2:Contents}</mt:CommentParent>
+]]></content>
+	<tabTrigger>mtcommentparent</tabTrigger>
+
+	<description>mt:CommentParent</description>
+</snippet>

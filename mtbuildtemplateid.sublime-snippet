@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BuildTemplateID${1} />
+]]></content>
+	<tabTrigger>mtbuildtemplateid</tabTrigger>
+
+	<description>mt:BuildTemplateID</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ErrorMessage${1} />
+]]></content>
+	<tabTrigger>mterrormessage</tabTrigger>
+
+	<description>mt:ErrorMessage</description>
+</snippet>

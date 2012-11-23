@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetRank${1} />
+]]></content>
+	<tabTrigger>mtassetrank</tabTrigger>
+
+	<description>mt:AssetRank</description>
+</snippet>

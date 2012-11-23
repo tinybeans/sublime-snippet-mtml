@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ArchiveDateEnd${1} />
+]]></content>
+	<tabTrigger>mtarchivedateend</tabTrigger>
+
+	<description>mt:ArchiveDateEnd</description>
+</snippet>

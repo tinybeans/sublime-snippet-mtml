@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PagesHeader${1}>${2:Contents}</mt:PagesHeader>
+]]></content>
+	<tabTrigger>mtpagesheader</tabTrigger>
+
+	<description>mt:PagesHeader</description>
+</snippet>

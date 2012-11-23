@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Textile${1}>${2:Contents}</mt:Textile>
+]]></content>
+	<tabTrigger>mttextile</tabTrigger>
+
+	<description>mt:Textile</description>
+</snippet>

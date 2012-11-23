@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetMimeType${1} />
+]]></content>
+	<tabTrigger>mtassetmimetype</tabTrigger>
+
+	<description>mt:AssetMimeType</description>
+</snippet>

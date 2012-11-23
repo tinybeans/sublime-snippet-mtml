@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfPreviousResults${1}>${2:Contents}</mt:IfPreviousResults>
+]]></content>
+	<tabTrigger>mtifpreviousresults</tabTrigger>
+
+	<description>mt:IfPreviousResults</description>
+</snippet>

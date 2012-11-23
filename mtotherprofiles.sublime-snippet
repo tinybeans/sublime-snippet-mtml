@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:OtherProfiles${1}>${2:Contents}</mt:OtherProfiles>
+]]></content>
+	<tabTrigger>mtotherprofiles</tabTrigger>
+
+	<description>mt:OtherProfiles</description>
+</snippet>

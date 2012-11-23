@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PagePermalink${1} />
+]]></content>
+	<tabTrigger>mtpagepermalink</tabTrigger>
+
+	<description>mt:PagePermalink</description>
+</snippet>

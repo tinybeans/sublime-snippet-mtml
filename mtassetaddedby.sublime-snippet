@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetAddedBy${1} />
+]]></content>
+	<tabTrigger>mtassetaddedby</tabTrigger>
+
+	<description>mt:AssetAddedBy</description>
+</snippet>

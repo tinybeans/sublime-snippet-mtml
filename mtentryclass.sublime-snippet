@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryClass${1} />
+]]></content>
+	<tabTrigger>mtentryclass</tabTrigger>
+
+	<description>mt:EntryClass</description>
+</snippet>

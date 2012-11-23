@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfStraightSearch${1}>${2:Contents}</mt:IfStraightSearch>
+]]></content>
+	<tabTrigger>mtifstraightsearch</tabTrigger>
+
+	<description>mt:IfStraightSearch</description>
+</snippet>

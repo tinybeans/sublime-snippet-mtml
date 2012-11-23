@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:StreamActionRollup${1}>${2:Contents}</mt:StreamActionRollup>
+]]></content>
+	<tabTrigger>mtstreamactionrollup</tabTrigger>
+
+	<description>mt:StreamActionRollup</description>
+</snippet>

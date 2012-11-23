@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogLanguage${1} />
+]]></content>
+	<tabTrigger>mtbloglanguage</tabTrigger>
+
+	<description>mt:BlogLanguage</description>
+</snippet>

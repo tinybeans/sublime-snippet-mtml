@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:StreamActionThumbnailURL${1} />
+]]></content>
+	<tabTrigger>mtstreamactionthumbnailurl</tabTrigger>
+
+	<description>mt:StreamActionThumbnailURL</description>
+</snippet>

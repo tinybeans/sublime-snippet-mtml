@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AuthorFollowLink${1} />
+]]></content>
+	<tabTrigger>mtauthorfollowlink</tabTrigger>
+
+	<description>mt:AuthorFollowLink</description>
+</snippet>

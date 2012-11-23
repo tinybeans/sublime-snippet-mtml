@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ParentCategories${1}>${2:Contents}</mt:ParentCategories>
+]]></content>
+	<tabTrigger>mtparentcategories</tabTrigger>
+
+	<description>mt:ParentCategories</description>
+</snippet>

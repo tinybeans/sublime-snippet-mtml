@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfRequireCommentEmails${1}>${2:Contents}</mt:IfRequireCommentEmails>
+]]></content>
+	<tabTrigger>mtifrequirecommentemails</tabTrigger>
+
+	<description>mt:IfRequireCommentEmails</description>
+</snippet>

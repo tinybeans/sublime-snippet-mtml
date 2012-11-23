@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetDateAdded${1} />
+]]></content>
+	<tabTrigger>mtassetdateadded</tabTrigger>
+
+	<description>mt:AssetDateAdded</description>
+</snippet>

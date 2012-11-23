@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AuthorUnFollowLink${1} />
+]]></content>
+	<tabTrigger>mtauthorunfollowlink</tabTrigger>
+
+	<description>mt:AuthorUnFollowLink</description>
+</snippet>

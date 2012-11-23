@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ActionsFavorite${1}>${2:Contents}</mt:ActionsFavorite>
+]]></content>
+	<tabTrigger>mtactionsfavorite</tabTrigger>
+
+	<description>mt:ActionsFavorite</description>
+</snippet>

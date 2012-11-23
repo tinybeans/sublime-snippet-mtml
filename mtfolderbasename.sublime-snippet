@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderBasename${1} />
+]]></content>
+	<tabTrigger>mtfolderbasename</tabTrigger>
+
+	<description>mt:FolderBasename</description>
+</snippet>

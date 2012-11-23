@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PageMore${1} />
+]]></content>
+	<tabTrigger>mtpagemore</tabTrigger>
+
+	<description>mt:PageMore</description>
+</snippet>

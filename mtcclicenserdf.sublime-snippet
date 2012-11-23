@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CCLicenseRDF${1} />
+]]></content>
+	<tabTrigger>mtcclicenserdf</tabTrigger>
+
+	<description>mt:CCLicenseRDF</description>
+</snippet>

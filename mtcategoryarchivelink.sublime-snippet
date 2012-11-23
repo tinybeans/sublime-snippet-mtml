@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CategoryArchiveLink${1} />
+]]></content>
+	<tabTrigger>mtcategoryarchivelink</tabTrigger>
+
+	<description>mt:CategoryArchiveLink</description>
+</snippet>

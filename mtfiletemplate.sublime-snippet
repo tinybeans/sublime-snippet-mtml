@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FileTemplate${1} />
+]]></content>
+	<tabTrigger>mtfiletemplate</tabTrigger>
+
+	<description>mt:FileTemplate</description>
+</snippet>

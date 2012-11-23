@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:StreamActionTags${1}>${2:Contents}</mt:StreamActionTags>
+]]></content>
+	<tabTrigger>mtstreamactiontags</tabTrigger>
+
+	<description>mt:StreamActionTags</description>
+</snippet>

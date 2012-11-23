@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PageNext${1}>${2:Contents}</mt:PageNext>
+]]></content>
+	<tabTrigger>mtpagenext</tabTrigger>
+
+	<description>mt:PageNext</description>
+</snippet>

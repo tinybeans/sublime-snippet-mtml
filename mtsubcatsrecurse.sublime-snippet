@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SubCatsRecurse${1} />
+]]></content>
+	<tabTrigger>mtsubcatsrecurse</tabTrigger>
+
+	<description>mt:SubCatsRecurse</description>
+</snippet>

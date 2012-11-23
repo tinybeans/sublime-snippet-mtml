@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderFooter${1}>${2:Contents}</mt:FolderFooter>
+]]></content>
+	<tabTrigger>mtfolderfooter</tabTrigger>
+
+	<description>mt:FolderFooter</description>
+</snippet>

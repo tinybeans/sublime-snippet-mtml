@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TotalPages${1} />
+]]></content>
+	<tabTrigger>mttotalpages</tabTrigger>
+
+	<description>mt:TotalPages</description>
+</snippet>

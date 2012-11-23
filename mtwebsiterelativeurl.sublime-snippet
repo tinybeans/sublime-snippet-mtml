@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsiteRelativeURL${1} />
+]]></content>
+	<tabTrigger>mtwebsiterelativeurl</tabTrigger>
+
+	<description>mt:WebsiteRelativeURL</description>
+</snippet>

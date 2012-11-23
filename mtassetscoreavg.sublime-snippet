@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetScoreAvg${1} />
+]]></content>
+	<tabTrigger>mtassetscoreavg</tabTrigger>
+
+	<description>mt:AssetScoreAvg</description>
+</snippet>

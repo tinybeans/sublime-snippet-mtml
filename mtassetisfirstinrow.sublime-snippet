@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AssetIsFirstInRow${1}>${2:Contents}</mt:AssetIsFirstInRow>
+]]></content>
+	<tabTrigger>mtassetisfirstinrow</tabTrigger>
+
+	<description>mt:AssetIsFirstInRow</description>
+</snippet>

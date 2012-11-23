@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AudioCustomFieldDescription${1} />
+]]></content>
+	<tabTrigger>mtaudiocustomfielddescription</tabTrigger>
+
+	<description>mt:AudioCustomFieldDescription</description>
+</snippet>

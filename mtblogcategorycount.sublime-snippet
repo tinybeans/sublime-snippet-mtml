@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogCategoryCount${1} />
+]]></content>
+	<tabTrigger>mtblogcategorycount</tabTrigger>
+
+	<description>mt:BlogCategoryCount</description>
+</snippet>

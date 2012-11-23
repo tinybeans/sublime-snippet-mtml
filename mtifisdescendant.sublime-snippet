@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfIsDescendant${1}>${2:Contents}</mt:IfIsDescendant>
+]]></content>
+	<tabTrigger>mtifisdescendant</tabTrigger>
+
+	<description>mt:IfIsDescendant</description>
+</snippet>

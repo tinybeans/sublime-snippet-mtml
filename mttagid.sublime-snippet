@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TagID${1} />
+]]></content>
+	<tabTrigger>mttagid</tabTrigger>
+
+	<description>mt:TagID</description>
+</snippet>

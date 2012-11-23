@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IndexName${1} />
+]]></content>
+	<tabTrigger>mtindexname</tabTrigger>
+
+	<description>mt:IndexName</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TrackbackScript${1} />
+]]></content>
+	<tabTrigger>mttrackbackscript</tabTrigger>
+
+	<description>mt:TrackbackScript</description>
+</snippet>

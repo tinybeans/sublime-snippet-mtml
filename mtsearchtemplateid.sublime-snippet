@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SearchTemplateID${1} />
+]]></content>
+	<tabTrigger>mtsearchtemplateid</tabTrigger>
+
+	<description>mt:SearchTemplateID</description>
+</snippet>

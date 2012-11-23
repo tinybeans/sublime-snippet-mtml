@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:Version${1} />
+]]></content>
+	<tabTrigger>mtversion</tabTrigger>
+
+	<description>mt:Version</description>
+</snippet>

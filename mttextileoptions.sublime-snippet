@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TextileOptions${1} />
+]]></content>
+	<tabTrigger>mttextileoptions</tabTrigger>
+
+	<description>mt:TextileOptions</description>
+</snippet>

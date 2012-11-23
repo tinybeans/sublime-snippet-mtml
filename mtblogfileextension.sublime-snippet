@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogFileExtension${1} />
+]]></content>
+	<tabTrigger>mtblogfileextension</tabTrigger>
+
+	<description>mt:BlogFileExtension</description>
+</snippet>

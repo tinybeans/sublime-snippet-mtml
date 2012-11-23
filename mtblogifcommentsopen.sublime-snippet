@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogIfCommentsOpen${1}>${2:Contents}</mt:BlogIfCommentsOpen>
+]]></content>
+	<tabTrigger>mtblogifcommentsopen</tabTrigger>
+
+	<description>mt:BlogIfCommentsOpen</description>
+</snippet>

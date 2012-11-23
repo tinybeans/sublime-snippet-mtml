@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:NotifyScript${1} />
+]]></content>
+	<tabTrigger>mtnotifyscript</tabTrigger>
+
+	<description>mt:NotifyScript</description>
+</snippet>

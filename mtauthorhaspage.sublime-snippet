@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AuthorHasPage${1}>${2:Contents}</mt:AuthorHasPage>
+]]></content>
+	<tabTrigger>mtauthorhaspage</tabTrigger>
+
+	<description>mt:AuthorHasPage</description>
+</snippet>

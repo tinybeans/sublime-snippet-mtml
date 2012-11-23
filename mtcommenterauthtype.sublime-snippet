@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommenterAuthType${1} />
+]]></content>
+	<tabTrigger>mtcommenterauthtype</tabTrigger>
+
+	<description>mt:CommenterAuthType</description>
+</snippet>

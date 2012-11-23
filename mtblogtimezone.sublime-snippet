@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:BlogTimezone${1} />
+]]></content>
+	<tabTrigger>mtblogtimezone</tabTrigger>
+
+	<description>mt:BlogTimezone</description>
+</snippet>

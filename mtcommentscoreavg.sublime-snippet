@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentScoreAvg${1} />
+]]></content>
+	<tabTrigger>mtcommentscoreavg</tabTrigger>
+
+	<description>mt:CommentScoreAvg</description>
+</snippet>

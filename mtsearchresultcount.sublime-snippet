@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SearchResultCount${1} />
+]]></content>
+	<tabTrigger>mtsearchresultcount</tabTrigger>
+
+	<description>mt:SearchResultCount</description>
+</snippet>

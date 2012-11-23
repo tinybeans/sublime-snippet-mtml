@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ArchiveCount${1} />
+]]></content>
+	<tabTrigger>mtarchivecount</tabTrigger>
+
+	<description>mt:ArchiveCount</description>
+</snippet>

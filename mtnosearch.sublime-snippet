@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:NoSearch${1}>${2:Contents}</mt:NoSearch>
+]]></content>
+	<tabTrigger>mtnosearch</tabTrigger>
+
+	<description>mt:NoSearch</description>
+</snippet>

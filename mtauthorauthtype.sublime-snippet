@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AuthorAuthType${1} />
+]]></content>
+	<tabTrigger>mtauthorauthtype</tabTrigger>
+
+	<description>mt:AuthorAuthType</description>
+</snippet>

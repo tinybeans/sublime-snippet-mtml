@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CommentCustomFieldDescription${1} />
+]]></content>
+	<tabTrigger>mtcommentcustomfielddescription</tabTrigger>
+
+	<description>mt:CommentCustomFieldDescription</description>
+</snippet>

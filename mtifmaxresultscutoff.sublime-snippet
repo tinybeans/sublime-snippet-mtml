@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfMaxResultsCutoff${1}>${2:Contents}</mt:IfMaxResultsCutoff>
+]]></content>
+	<tabTrigger>mtifmaxresultscutoff</tabTrigger>
+
+	<description>mt:IfMaxResultsCutoff</description>
+</snippet>

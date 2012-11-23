@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryScoreCount${1} />
+]]></content>
+	<tabTrigger>mtentryscorecount</tabTrigger>
+
+	<description>mt:EntryScoreCount</description>
+</snippet>

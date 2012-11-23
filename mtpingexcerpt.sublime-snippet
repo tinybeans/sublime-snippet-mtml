@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PingExcerpt${1} />
+]]></content>
+	<tabTrigger>mtpingexcerpt</tabTrigger>
+
+	<description>mt:PingExcerpt</description>
+</snippet>

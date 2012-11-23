@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:ArchiveLabel${1} />
+]]></content>
+	<tabTrigger>mtarchivelabel</tabTrigger>
+
+	<description>mt:ArchiveLabel</description>
+</snippet>

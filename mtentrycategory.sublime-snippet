@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryCategory${1} />
+]]></content>
+	<tabTrigger>mtentrycategory</tabTrigger>
+
+	<description>mt:EntryCategory</description>
+</snippet>

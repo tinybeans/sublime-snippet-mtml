@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:TagRank${1} />
+]]></content>
+	<tabTrigger>mttagrank</tabTrigger>
+
+	<description>mt:TagRank</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PageKeywords${1} />
+]]></content>
+	<tabTrigger>mtpagekeywords</tabTrigger>
+
+	<description>mt:PageKeywords</description>
+</snippet>

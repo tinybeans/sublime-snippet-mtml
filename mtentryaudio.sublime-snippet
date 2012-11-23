@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:EntryAudio${1} />
+]]></content>
+	<tabTrigger>mtentryaudio</tabTrigger>
+
+	<description>mt:EntryAudio</description>
+</snippet>

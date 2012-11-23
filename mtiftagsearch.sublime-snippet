@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfTagSearch${1}>${2:Contents}</mt:IfTagSearch>
+]]></content>
+	<tabTrigger>mtiftagsearch</tabTrigger>
+
+	<description>mt:IfTagSearch</description>
+</snippet>

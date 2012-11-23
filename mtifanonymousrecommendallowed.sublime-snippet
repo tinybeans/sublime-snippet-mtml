@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfAnonymousRecommendAllowed${1}>${2:Contents}</mt:IfAnonymousRecommendAllowed>
+]]></content>
+	<tabTrigger>mtifanonymousrecommendallowed</tabTrigger>
+
+	<description>mt:IfAnonymousRecommendAllowed</description>
+</snippet>

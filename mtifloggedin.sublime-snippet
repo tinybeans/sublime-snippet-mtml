@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:IfLoggedIn${1}>${2:Contents}</mt:IfLoggedIn>
+]]></content>
+	<tabTrigger>mtifloggedin</tabTrigger>
+
+	<description>mt:IfLoggedIn</description>
+</snippet>

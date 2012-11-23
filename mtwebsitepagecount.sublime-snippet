@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:WebsitePageCount${1} />
+]]></content>
+	<tabTrigger>mtwebsitepagecount</tabTrigger>
+
+	<description>mt:WebsitePageCount</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:FolderPrevious${1}>${2:Contents}</mt:FolderPrevious>
+]]></content>
+	<tabTrigger>mtfolderprevious</tabTrigger>
+
+	<description>mt:FolderPrevious</description>
+</snippet>

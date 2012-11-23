@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:CustomFieldIsRequired${1}>${2:Contents}</mt:CustomFieldIsRequired>
+]]></content>
+	<tabTrigger>mtcustomfieldisrequired</tabTrigger>
+
+	<description>mt:CustomFieldIsRequired</description>
+</snippet>

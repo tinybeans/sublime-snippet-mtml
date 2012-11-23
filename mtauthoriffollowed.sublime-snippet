@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:AuthorIfFollowed${1}>${2:Contents}</mt:AuthorIfFollowed>
+]]></content>
+	<tabTrigger>mtauthoriffollowed</tabTrigger>
+
+	<description>mt:AuthorIfFollowed</description>
+</snippet>

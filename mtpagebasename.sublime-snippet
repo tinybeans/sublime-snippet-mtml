@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:PageBasename${1} />
+]]></content>
+	<tabTrigger>mtpagebasename</tabTrigger>
+
+	<description>mt:PageBasename</description>
+</snippet>

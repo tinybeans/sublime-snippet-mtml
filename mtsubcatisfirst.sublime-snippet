@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:SubCatIsFirst${1}>${2:Contents}</mt:SubCatIsFirst>
+]]></content>
+	<tabTrigger>mtsubcatisfirst</tabTrigger>
+
+	<description>mt:SubCatIsFirst</description>
+</snippet>
