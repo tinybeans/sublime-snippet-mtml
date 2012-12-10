@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<mt:If name="${1:VarName}">${2:True Contents}<mt:Else>${3:False Contents}</mt:If>
+]]></content>
+	<tabTrigger>mtifelse</tabTrigger>
+
+	<description>mt:If else</description>
+</snippet>
