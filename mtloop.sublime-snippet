@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<mt:Loop${1}>${2:Contents}</mt:Loop>
+<mt:Loop name="${1}">${2:Contents}</mt:Loop>
 ]]></content>
 	<tabTrigger>mtloop</tabTrigger>
 
